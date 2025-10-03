@@ -1,13 +1,23 @@
 <!-- Banner Image -->
+
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Ashish Gupta Banner" />
+  <img 
+    src="https://images.unsplash.com/photo-1542690969-5a2050285637?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+    alt="Ashish Gupta Banner" 
+    height="300" width="1000"/>
 </p>
+
+
+
+
+
+
 
 # 👋 Hi, I'm Ashish Gupta  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F700&width=500&lines=BCA+Student+%7C+Ambalika+Institute;Aspiring+Full+Stack+Developer;React+%7C+MERN+Stack+Learner;)](https://git.io/typing-svg)
 
-🚀 BCA Student at Ambalika Institute of Higher education, Lucknow| 
+🚀 BCA Student at Ambalika Institute of Higher education, Lucknow ||  
 💻 Aspiring Full Stack Developer  
 
 I’m passionate about building modern web applications using **React.js, Node.js, and the MERN stack**.  
