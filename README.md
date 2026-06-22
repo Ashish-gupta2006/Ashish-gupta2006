@@ -9,7 +9,7 @@
 
 ## 👋 Hi, I'm Ashish Gupta  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F700&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js%7C+MongoDB;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F700&width=700&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 
 💻 Aspiring Full Stack Developer
@@ -23,9 +23,8 @@ Passionate about building modern web applications using React.js, Node.js, Expre
 ---
 
 ## 🛠️ Tech Stack & Tools
-🛠️ Tech Stack & Tools
 
-Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,24 +32,24 @@ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-State Management
+### State Management
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-Backend
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Database
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Authentication
+### Authentication
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
